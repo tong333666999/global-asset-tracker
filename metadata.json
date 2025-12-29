@@ -1,0 +1,5 @@
+{
+  "name": "Global Asset Tracker",
+  "description": "A comprehensive asset management dashboard to track stocks, crypto, and cash in TWD with real-time exchange rates.",
+  "requestFramePermissions": []
+}
